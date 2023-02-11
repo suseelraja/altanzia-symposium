@@ -1,0 +1,20 @@
+@media only screen and (max-width:390px){
+	#tech1{
+		font-size: 30px;
+	}
+}
+@media only screen and (max-width:414px){
+	#tech1{
+		font-size: 30px;
+	}
+}
+@media only screen and (max-width:390px){
+	#tech2{
+		font-size: 30px;
+	}
+}
+@media only screen and (max-width:414px){
+	#tech2{
+		font-size: 30px;
+	}
+}
